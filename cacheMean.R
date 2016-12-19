@@ -1,3 +1,5 @@
+## Eduardo Geralde Neto
+
 #The following function calculates the mean of the special "vector"
 #created with the makevector function. However, it first checks to see if the
 #mean has already been calculated. If so, it gets the mean from the cache
