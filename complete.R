@@ -1,3 +1,5 @@
+## Eduardo Geralde Neto
+
 complete <- function(directory,id=1:332){
         files <<- dir(directory)
         data_frame <<- do.call("rbind",lapply(files[id], 

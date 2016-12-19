@@ -1,3 +1,5 @@
+## Eduardo Geralde Neto
+
 pollutantmean <- function(directory,pollutant,id=1:332){
         files <- dir(directory)
         data_frame <<- do.call("rbind",lapply(files[id], function(x) read.csv(paste(directory,"/",x,sep = ''),stringsAsFactors = FALSE)))

@@ -1,3 +1,5 @@
+## Eduardo Geralde Neto
+
 corr <- function(directory, threshold = 0) {
         tcorr <- function(fname) {
                 data <- read.csv(file.path(directory, fname))

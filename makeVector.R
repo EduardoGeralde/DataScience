@@ -1,3 +1,5 @@
+## Eduardo Geralde Neto
+
 #This function, makeVector creates a special "vector",
 # which is really a list containing a function to
 
